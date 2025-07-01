@@ -1,0 +1,31 @@
+{
+  "dashboard_duration": 10,
+  "screensaver_config": [
+    {
+      "filename": "vertical-shot-mesmerizing-lake-scenery-stavern-norway.jpg",
+      "active": false
+    },
+    {
+      "filename": "norway-northern-lights.jpg",
+      "active": true
+    }
+  ],
+  "enable_mqtt": false,
+  "mqtt_broker": "homeassistant.local",
+  "mqtt_port": 1883,
+  "mqtt_user": "",
+  "mqtt_pass": "",
+  "enable_file_logging": true,
+  "weekplans": [
+    {
+      "key": "plan1",
+      "name": "Weekplan 1",
+      "icon": "👨‍👩‍👧"
+    },
+    {
+      "key": "plan2",
+      "name": "Weekplan 2",
+      "icon": "📅"
+    }
+  ]
+}
