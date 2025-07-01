@@ -29,13 +29,12 @@ A Flask-based web application designed for a Raspberry Pi or similar device to d
 ├── LICENSE                 # The software license
 ├── static/
 │   ├── images/             # Stores the converted weekplan PNGs
-│   │   ├── plan1-ukeplan.png
-│   │   └── plan2-ukeplan.png
 │   ├── js/
 │   │   ├── admin.js        # JavaScript for the admin panel
 │   │   └── dashboard.js    # JavaScript for the main dashboard
 │   └── screensaver/        # Stores screensaver images
+├── uploads/                # Stores the uploaded PDFs
 └── templates/
-├── admin.html          # Admin panel template
-└── dashboard.html      # Main dashboard template
+    ├── admin.html          # Admin panel template
+    └── dashboard.html      # Main dashboard template
 ```
