@@ -20,6 +20,7 @@ A Flask-based web application designed for a Raspberry Pi or similar device to d
 
 ## File Structure
 
+```
 .
 ├── app.py                  # Main Flask application
 ├── config.json             # Stores all application settings
@@ -37,3 +38,4 @@ A Flask-based web application designed for a Raspberry Pi or similar device to d
 └── templates/
 ├── admin.html          # Admin panel template
 └── dashboard.html      # Main dashboard template
+```
