@@ -1,4 +1,4 @@
-# PDF & Screensaver Dashboard
+# Weekplans - a Home Dashboard
 
 A Flask-based web application designed for a Raspberry Pi or similar device to display rotating weekly schedules and a screensaver. It features a simple admin panel to manage content and settings.
 
